@@ -6,8 +6,6 @@ Welcome to my personal Github! My name's Chelsea, and I'm currently studying Com
 ## Some things to know about me	ฅ(•ㅅ•❀)ฅ
 - **Currently looking for a work placement in the IT industry**
 - Passionate about learning new things and broadening my tech knowledge
-- I enjoy solving mathematical puzzles in my free time ( Sudoku + Kakuro) 
-- A huge KPOP enthusiast, specifically LOONA! ♬♫♪◖(● o ●)◗♪♫♬
 - 📖 Reading is a hobby of mine and I currently have a stack of books waiting to be read! (What I'm reading these days: LADY JOKER by Kaoru Takamura)
 
 
