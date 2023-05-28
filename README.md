@@ -4,7 +4,7 @@ Welcome to my personal Github! My name's Chelsea, and I'm currently studying Com
 
 
 ## Some things to know about me	ฅ(•ㅅ•❀)ฅ
-- **Currently looking for a work placement in the IT industry**
+- **Will be starting my internship year in July 2023**
 - Passionate about learning new things and broadening my tech knowledge
 - 📖 Reading is a hobby of mine and I currently have a stack of books waiting to be read! (What I'm reading these days: LADY JOKER by Kaoru Takamura)
 
