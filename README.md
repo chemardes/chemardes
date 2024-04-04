@@ -1,13 +1,12 @@
-### Hi there ☆ﾐ(o*･ω･)ﾉ
+### Hi there ☆ﾐ(o*･ω･)ﾉ 
 
-Welcome to my personal Github! My name's Chelsea, and I'm currently studying Computer Science @ Queen's University Belfast.
+Welcome to my Personal Github! 
 
+I am currently a Computer Science undergraduate student who is deeply keen on expanding my knowledge on Mathematics, Technology, and the financial sector. My interest in this blend of topics, as well as my recent experience undergoing an internship with a fintech company, has introduced to me a niche field known as Quantitative Finance with which I am determined to break into.
 
-## Some things to know about me	ฅ(•ㅅ•❀)ฅ
-- **Will be starting my internship year in July 2023**
-- Passionate about learning new things and broadening my tech knowledge
-- 📖 Reading is a hobby of mine and I currently have a stack of books waiting to be read! (What I'm reading these days: LADY JOKER by Kaoru Takamura)
+Though my formal experience has not yet encompassed the various aspects within this field, my genuine curiosity and determination provides a great drive for me to explore its complexities.
 
+I am using Github as a platform to showcase my personal projects ---- to be continued
 
 
 <!--
