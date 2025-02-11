@@ -2,13 +2,6 @@
 
 Welcome to my Personal Github! 
 
-I am currently a Computer Science undergraduate student who is deeply keen on expanding my knowledge on Mathematics, Technology, and the financial sector. My interest in this blend of topics, as well as my recent experience undergoing an internship with a fintech company, has introduced to me a niche field known as Quantitative Finance with which I am determined to break into.
-
-Though my formal experience has not yet encompassed the various aspects within this field, my genuine curiosity and determination provides a great drive for me to explore its complexities.
-
-I am using Github as a platform to showcase my personal projects ---- to be continued
-
-
 <!--
 **chemardes/chemardes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
